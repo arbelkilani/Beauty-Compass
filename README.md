@@ -1,4 +1,5 @@
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/80b8d0131e55438db364dee82b6b6481)](https://app.codacy.com/app/arbelkilani/Beauty-Compass?utm_source=github.com&utm_medium=referral&utm_content=arbelkilani/Beauty-Compass&utm_campaign=Badge_Grade_Dashboard)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/vlad1m1r990/Lemniscate/blob/master/LICENSE)
 [![ersion](https://img.shields.io/badge/Version-1.0-brightgreen.svg)]()
 [![API](https://img.shields.io/badge/API-19-orange.svg)]()
