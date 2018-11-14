@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/vlad1m1r990/Lemniscate/blob/master/LICENSE)
 [![ersion](https://img.shields.io/badge/Version-1.0-brightgreen.svg)]()
 [![API](https://img.shields.io/badge/API-19-orange.svg)]()
+[![AndroidArsenal](https://img.shields.io/badge/Android%20Arsenal-%20Beauty%20Compass-yellow.svg)](https://android-arsenal.com/details/3/7318)
 
 ![cover](https://github.com/arbelkilani/Beauty-Compass/blob/master/screenshots/beauty_compass.jpg?raw=true)
 
