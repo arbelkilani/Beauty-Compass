@@ -13,7 +13,7 @@ Beauty compass is a simple demo application of compass running on Android device
 
 - Awesome design related to sunrise and sunset events.  
 - Clear, tiny and simple to use.
-- You can download APK file from [here](https://github.com/arbelkilani/Beauty-Compass/blob/master/beauty_compass.apk)
+- You can download APK file from [here](https://play.google.com/store/apps/details?id=com.arbelkilani.beautycompass)
 
 ## Credit
 - Design inspiration thanks to [Rahul Bhadauria](https://www.sketchappsources.com/free-source/1857-compass-ui-wallpapers-sketch-freebie-resource.html)
